@@ -1,0 +1,8 @@
+title: Davidson Heath
+description: Assistant Professor of Finance, Eccles School of Business University of Utah
+google_analytics: UA-55263004-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
