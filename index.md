@@ -8,7 +8,7 @@
 
 Evals: [2017](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)
 
-###Working Papers
+### Working Papers
 
 [Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)
 
