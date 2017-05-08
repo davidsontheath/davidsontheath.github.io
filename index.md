@@ -6,6 +6,8 @@
 
 [CV](dheath_CV.pdf)
 
+Evals: [2017](Distribution-HEATHDAVIDSONFINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)
+
 ###Working Papers
 
 [Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)
