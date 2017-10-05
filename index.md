@@ -2,9 +2,15 @@
 
 **Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 626-665-4191 &nbsp; **Office:** SFEBB 7217
 
+<br><br>
+
 [LinkedIn](https://www.linkedin.com/in/davidson-heath-5a28999a)
 
+<br><br>
+
 [CV](dheath_CV.pdf)
+
+<br><br>
 
 [Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)
 
