@@ -28,7 +28,9 @@ Price impacts in legal event studies are systematically overestimated, a problem
 
 <br>
 
-**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)** *Revise & Resubmit, Management Science*
+**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)** 
+
+*Revise & Resubmit, Management Science*
 
 I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
 
