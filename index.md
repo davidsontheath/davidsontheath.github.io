@@ -6,7 +6,11 @@
 
 [CV](dheath_CV.pdf)
 
-[Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)
+<br>
+
+###Teaching
+
+FINAN 6022 - Financial Management [Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)
 
 <br>
 
