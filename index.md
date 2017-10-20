@@ -10,7 +10,7 @@
 
 <br>
 
-### Working Papers
+### Research
 
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
