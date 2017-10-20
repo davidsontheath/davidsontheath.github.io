@@ -12,17 +12,27 @@
 
 ### Working Papers
 
-**[Trademark Protection, Profits and Product Quality](https://papers.ssrn.com/abstract=2798473)** with Chris Mace
 
-*Under Review*
+**[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
-We study the effects of trademark protection on firm profits and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA), we find that from 1996 to 2002 the FTDA raised treated firms’ operating margin by 12% and channeled $691 billion in operating profits to incumbent firms. The FTDA was followed by a spike in trademark dilution lawsuits and increased concentration and reduced entry into affected industries. Treated firms responded by lowering product quality and innovation, and extending protected brands into all-new product markets.
+We quantify the impact of index investing on stock prices. Using a regression discontinuity analysis around yearly Russell index reconstitutions, we find that index investing introduces noise into stock prices, but does not impact long-term price efficiency or trading by arbitrageurs. Stocks with more index investors have prices that deviate more from a random walk and exhibit higher correlations with index price movements. However, these stocks have no difference in turnover, trading volume, or earnings response coefficients. In other words, index investing introduces noise into prices, but it does not impact the ability of arbitrageurs to impound information into prices.
 
 <br>
 
-**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton 
+**[What's a Brand Worth? Trademark Protection, Profits, and Strategy](https://papers.ssrn.com/abstract=2798473)** with Chris Mace
 
-*Under Review*
+We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
+
+<br>
+
+**[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
+
+A robust and controversial finding in the capital structure literature is the inverse relation between profitability and leverage. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms and has product-market spillovers on their suppliers. We find that treated firms and their suppliers similarly increase their profitability, but only suppliers reduce their leverage in response. The different nature of profitability shocks explains the results: The profitability increase was permanent and riskless for treated firms, but transitory and risky for suppliers. Unobserved components of profitability variation seem to explain earlier findings.
+
+<br>
+
+
+**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton 
 
 Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. **[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)**
 
