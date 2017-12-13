@@ -14,7 +14,18 @@ FINAN 6022 - Financial Management  **[Evals](FINAN-6022-Graduate-LEC-2017-Spring
 
 <br>
 
+
+
 ### Research
+
+
+**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)** 
+
+*Accepted, Management Science*
+
+I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
+
+<br>
 
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
@@ -39,14 +50,6 @@ A robust and controversial finding in the capital structure literature is the in
 **[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton 
 
 Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. **[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)**
-
-<br>
-
-**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)** 
-
-*Revise & Resubmit, Management Science*
-
-I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
 
 <br>
 
