@@ -19,14 +19,17 @@ FINAN 6022 - Financial Management  **[Evals](FINAN-6022-Graduate-LEC-2017-Spring
 ### Research
 
 
-**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)** 
-
-*Accepted, Management Science*
+**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)**  *Accepted, Management Science*
 
 I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
 
 <br>
 
+**[What's a Brand Worth? Trademark Protection, Profits, and Strategy](https://papers.ssrn.com/abstract=2798473)** with Chris Mace  *Revise & Resubmit, Review of Financial Studies*
+
+We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
+
+<br>
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
@@ -34,11 +37,6 @@ We quantify the impact of index investing on stock prices. Using a regression di
 
 <br>
 
-**[What's a Brand Worth? Trademark Protection, Profits, and Strategy](https://papers.ssrn.com/abstract=2798473)** with Chris Mace
-
-We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
-
-<br>
 
 **[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
