@@ -10,7 +10,7 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management  **[Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)**
+FINAN 6022 - Financial Management   **[Recent Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)**
 
 <br>
 
@@ -31,6 +31,13 @@ We study the effects of trademark protection on firm profits, value and strategy
 
 <br>
 
+**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton  *Revise & Resubmit, American Law and Economic Review*
+
+Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. **[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)**
+
+<br>
+
+
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
 We quantify the impact of index investing on stock prices. Using a regression discontinuity analysis around yearly Russell index reconstitutions, we find that index investing introduces noise into stock prices, but does not impact long-term price efficiency or trading by arbitrageurs. Stocks with more index investors have prices that deviate more from a random walk and exhibit higher correlations with index price movements. However, these stocks have no difference in turnover, trading volume, or earnings response coefficients. In other words, index investing introduces noise into prices, but it does not impact the ability of arbitrageurs to impound information into prices.
@@ -45,11 +52,6 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton 
-
-Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. **[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)**
-
-<br>
 
 **[Convergence Failure in CBOT Wheat Futures](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2275088)**
 
