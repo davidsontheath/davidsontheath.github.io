@@ -10,7 +10,9 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Recent Evals](FINAN-6022-Graduate-LEC-2017-Spring Sheet.pdf)**
+FINAN 6022 - Financial Management   **[Recent Evals](HEATH_2018_Spring_FINAN_6022.pdf)**
+
+Distinguished Teaching Award, 2018
 
 <br>
 
