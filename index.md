@@ -10,7 +10,7 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Recent Evals](HEATH_2018_Spring_FINAN_6022.pdf)**
+FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
 
 Distinguished Teaching Award 2018
 
