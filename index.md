@@ -1,6 +1,6 @@
 ![dth](images/dth2016.jpeg)
 
-**Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 626-665-4191 &nbsp; **Office:** SFEBB 7217
+**Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 801-581-3948 &nbsp; **Office:** SFEBB 7217
 
 **[LinkedIn](https://www.linkedin.com/in/davidson-heath-5a28999a)**
 
