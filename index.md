@@ -21,9 +21,13 @@ Distinguished Teaching Award 2018
 ### Research
 
 
-**[Macroeconomic Factors in Oil Futures Markets](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.3008)**  *Management Science (2018)*
+**[Macroeconomic Factors in Oil Futures Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506146)**  *[Management Science (2018)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.3008)*
+
 
 I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
+[Internet Appendix](macro_factors_oil_futures_internet_appendix.pdf)
+[Replication Code](macro_factors_oil_futures_replication_code.zip)
+
 
 <br>
 
@@ -35,7 +39,8 @@ We study the effects of trademark protection on firm profits, value and strategy
 
 **[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton  *Revise & Resubmit, American Law and Economics Review*
 
-Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. **[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)**
+Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. 
+[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)
 
 <br>
 
