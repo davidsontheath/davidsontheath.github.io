@@ -1,6 +1,6 @@
 ![dth](images/dth2016.jpeg)
 
-**Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 626-665-4191 &nbsp; **Office:** SFEBB 7217
+**Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 801-581-3948 &nbsp; **Office:** SFEBB 7217
 
 **[LinkedIn](https://www.linkedin.com/in/davidson-heath-5a28999a)**
 
@@ -10,7 +10,7 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Recent Evals](HEATH_2018_Spring_FINAN_6022.pdf)**
+FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
 
 Distinguished Teaching Award 2018
 
@@ -21,7 +21,7 @@ Distinguished Teaching Award 2018
 ### Research
 
 
-**[Macroeconomic Factors in Oil Futures Markets](dheath_MFOF.pdf)**  *Accepted, Management Science*
+**[Macroeconomic Factors in Oil Futures Markets](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.3008)**  *Management Science (2018)*
 
 I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
 
