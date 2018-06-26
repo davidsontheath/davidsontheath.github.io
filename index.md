@@ -24,7 +24,7 @@ Distinguished Teaching Award 2018
 **[Macroeconomic Factors in Oil Futures Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506146)**  *[Management Science (2018)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.3008)*
 
 
-I construct a macro-finance model for commodity futures that admits unspanned macroeconomic state variables. There is a negative feedback relationship between crude oil prices and real economic activity. The channel from real activity to oil prices is unspanned - that is, it is not identified in the contemporaneous futures curve - consistent with futures as a hedge asset against supply shocks. Unspanned macroeconomic risks have large effects on oil risk premiums and real options values which are missed by previous models.
+This paper documents new evidence against perfect risk spanning in crude oil futures, and develops an affine futures pricing model that allows for unspanned macroeconomic factors. Compared to previous estimates, the oil spot premium is more volatile and strongly procyclical which suggests that previous models miss the majority of variation in oil risk premiums. The estimates reveal a dynamic two-way relationship between oil futures and economic activity: productivity shocks are associated with higher oil prices, while oil price shocks affect economic activity by lowering future consumption spending. Unspanned macro factors also affect the valuation of real options.
 [Internet Appendix](macro_factors_oil_futures_internet_appendix.pdf)
 [Replication Code](macro_factors_oil_futures_replication_code.zip)
 
