@@ -31,7 +31,7 @@ This paper documents new evidence against perfect risk spanning in crude oil fut
 
 <br>
 
-**[What's a Brand Worth? Trademark Protection, Profits, and Strategy](https://papers.ssrn.com/abstract=2798473)** with Chris Mace  *Revise & Resubmit, Review of Financial Studies*
+**[The Dark Side of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with Chris Mace  *Revise & Resubmit, Review of Financial Studies*
 
 We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
 
