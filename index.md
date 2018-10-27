@@ -52,6 +52,13 @@ We quantify the impact of index investing on stock prices. Using a regression di
 <br>
 
 
+**[Passive Investors are Passive Monitors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+
+Passively managed index funds now hold more than 25% of all U.S. mutual fund assets. Using a new regression discontinuity design, we study the governance implications of passive investing by directly examining the voice and exit mechanisms. We find that index funds are more likely to vote with a firm's management. Moreover, while they do regularly exit positions and omit holdings in their target benchmark, they do not use the exit mechanism to enforce good governance.
+
+<br>
+
+
 **[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
 A robust and controversial finding in the capital structure literature is the inverse relation between profitability and leverage. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms and has product-market spillovers on their suppliers. We find that treated firms and their suppliers similarly increase their profitability, but only suppliers reduce their leverage in response. The different nature of profitability shocks explains the results: The profitability increase was permanent and riskless for treated firms, but transitory and risky for suppliers. Unobserved components of profitability variation seem to explain earlier findings.
