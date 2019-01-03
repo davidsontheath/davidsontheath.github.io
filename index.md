@@ -53,6 +53,7 @@ We quantify the impact of index investing on stock prices. Using a regression di
 
 
 **[Passive Investors are Passive Monitors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+
 Passively managed index funds now own more than 25% of U.S. mutual fund and ETF assets. Using a new research design based on index reconstitutions, we study the governance implications of passive investing by directly examining the voice and exit mechanisms. We find that index funds are more likely to vote with a firm's management. Moreover, while they do regularly exit positions and omit holdings in their target benchmark, they do not use the exit mechanism to enforce good governance. Our results show that passive investing shifts power from investors to firm managers.
 
 <br>
