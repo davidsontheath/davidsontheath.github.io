@@ -37,7 +37,7 @@ We study the effects of trademark protection on firm profits, value and strategy
 
 <br>
 
-**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/abstract=3005878)** with Taylor Dove and J.B. Heaton  *Revise & Resubmit, American Law and Economics Review*
+**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3321180)** with Taylor Dove and J.B. Heaton  *Revise & Resubmit, American Law and Economics Review*
 
 Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. 
 [Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)
