@@ -10,7 +10,7 @@
 
 
 
-## Working Papers
+### Working Papers
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
@@ -33,7 +33,7 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-## Published Papers
+### Published & Accepted Papers
 
 
 **[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  *Accepted, Review of Financial Studies*
@@ -59,7 +59,7 @@ This paper documents new evidence against perfect risk spanning in crude oil fut
 
 <br>
 
-## Old Working Papers
+### Old Working Papers
 
 **[Convergence Failure in CBOT Wheat Futures](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2275088)**
 
@@ -68,7 +68,7 @@ Massive convergence failures in CBOT agricultural contracts in 2007-2008 were ca
 <br>
 
 
-## Teaching
+### Teaching
 
 FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
 
