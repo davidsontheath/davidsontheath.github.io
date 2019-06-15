@@ -8,20 +8,11 @@
 
 <br>
 
-### Teaching
-
-FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
-
-Distinguished Teaching Award 2018
-
-<br>
-
-
 
 ### Research
 
 
-
+## Working Papers
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
@@ -44,7 +35,21 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-### Published Papers
+## Published Papers
+
+
+**[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  *Accepted, Review of Financial Studies*
+
+We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
+
+<br>
+
+**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3321180)** with Taylor Dove and J.B. Heaton  *[American Law and Economics Review (2019)](https://academic.oup.com/aler/article/21/1/184/5482489)*
+
+Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. 
+[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)
+
+<br>
 
 **[Macroeconomic Factors in Oil Futures Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2506146)**  *[Management Science (2018)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.3008)*
 
@@ -56,22 +61,18 @@ This paper documents new evidence against perfect risk spanning in crude oil fut
 
 <br>
 
-**[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  *Accepted, Review of Financial Studies*
-
-We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets.
-
-<br>
-
-**[Bias-Corrected Estimation of Price Impact in Securities Litigation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3321180)** with Taylor Dove and J.B. Heaton  *Forthcoming, American Law and Economics Review*
-
-Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. 
-[Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)
-
-<br>
-
-### Old Working Papers
+## Old Working Papers
 
 **[Convergence Failure in CBOT Wheat Futures](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2275088)**
 
 Massive convergence failures in CBOT agricultural contracts in 2007-2008 were caused by caps on the fees that storage providers could charge holders of delivery certificates.
+
+
+### Teaching
+
+FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
+
+Distinguished Teaching Award 2018
+
+<br>
 
