@@ -9,8 +9,6 @@
 <br>
 
 
-### Research
-
 
 ## Working Papers
 
@@ -67,12 +65,13 @@ This paper documents new evidence against perfect risk spanning in crude oil fut
 
 Massive convergence failures in CBOT agricultural contracts in 2007-2008 were caused by caps on the fees that storage providers could charge holders of delivery certificates.
 
+<br>
 
-### Teaching
+
+## Teaching
 
 FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2018_Spring_FINAN_6022.pdf)**
 
 Distinguished Teaching Award 2018
 
-<br>
 
