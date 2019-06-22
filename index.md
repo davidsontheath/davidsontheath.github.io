@@ -8,6 +8,14 @@
 
 <br>
 
+### Teaching
+
+FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2019_Spring_FINAN_6022.pdf)**
+
+Distinguished Teaching Award 2018
+
+<br>
+
 
 
 ### Working Papers
@@ -33,7 +41,7 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-### Published & Accepted Papers
+### Published & Forthcoming Papers
 
 
 **[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  *Accepted, Review of Financial Studies*
@@ -67,11 +75,5 @@ Massive convergence failures in CBOT agricultural contracts in 2007-2008 were ca
 
 <br>
 
-
-### Teaching
-
-FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2019_Spring_FINAN_6022.pdf)**
-
-Distinguished Teaching Award 2018
 
 
