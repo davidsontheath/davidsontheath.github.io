@@ -48,7 +48,7 @@ A robust and controversial finding in the capital structure literature is the in
 
 *[Review of Financial Studies (2019)](https://doi.org/10.1093/rfs/hhz084)*
 
-We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets. [Internet Appendix](Heath_Mace_RFS2019_IA.pdf) [Replication Code](Heath_Mace_RFS2019_replication_code.zip)  [U.S. Trademarks to Compustat Bridge File](heath_mace_tm_bridge.zip)
+We study the effects of trademark protection on firms’ profits and strategy using the 1996 Federal Trademark Dilution Act, which granted additional legal protection to selected trademarks. We find that the FTDA raised treated firms’ operating profits and was followed by a spike in trademark lawsuits and lower entry and exit in affected product markets. Treated firms reduced R&D spending, produced fewer patents and new products, and recalled a higher number of unsafe products. Our results suggest that stronger trademark protection negatively affected innovation and product quality. [Internet Appendix](Heath_Mace_RFS2019_IA.pdf) [Replication Code](Heath_Mace_RFS2019_replication_code.zip)  [U.S. Trademarks to Compustat Bridge File](heath_mace_tm_bridge.zip)
 
 
 <br>
