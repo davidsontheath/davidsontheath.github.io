@@ -41,7 +41,7 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-### Published & Forthcoming Papers
+### Published Papers
 
 
 **[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  
