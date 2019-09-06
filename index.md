@@ -29,7 +29,7 @@ We quantify the impact of index investing on stock prices. Using a regression di
 
 **[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
 
-Passively managed index funds now own more than 25% of U.S. mutual fund and ETF assets. Using a new research design based on index reconstitutions, we study the governance implications of passive investing by directly examining the voice and exit mechanisms. We find that index funds are more likely to vote with a firm's management. Moreover, while they do regularly exit positions and omit holdings in their target benchmark, they do not use the exit mechanism to enforce good governance. Our results show that passive investing shifts power from investors to firm managers.
+Passively managed index funds now hold over 25% of U.S. mutual fund and ETF assets. The rise of index investing raises fundamental questions about monitoring and corporate governance. We examine the voice and exit mechanisms and find that compared to active funds, index funds rarely vote against firm management on contentious corporate governance issues, and do not use exit to express dissatisfaction with firm management. Moreover, across a variety of tests, we find no evidence that index funds engage with firm management. Our results suggest that the rise of index investing is shifting control from investors to firm managers.
 
 <br>
 
@@ -41,14 +41,14 @@ A robust and controversial finding in the capital structure literature is the in
 <br>
 
 
-### Published & Forthcoming Papers
+### Published Papers
 
 
 **[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  
 
 *[Review of Financial Studies (2019)](https://doi.org/10.1093/rfs/hhz084)*
 
-We study the effects of trademark protection on firm profits, value and strategy. Using diff-in-diff and switching estimates around the passage and nullification of the Federal Trademark Dilution Act (FTDA) we find that from 1996 to 2002 the FTDA raised treated firms’ operating margins by 12% and firm values by 9.5% on average. The FTDA’s passage was followed by a spike in trademark lawsuits, lower entry, and higher concentration in more affected industries. Firms granted stronger trademark protection reduced both product quality and innovation, and extended protected brands into all-new product markets. [U.S. Trademarks to Compustat Bridge File](heath_mace_tm_bridge.zip)
+We study the effects of trademark protection on firms’ profits and strategy using the 1996 Federal Trademark Dilution Act, which granted additional legal protection to selected trademarks. We find that the FTDA raised treated firms’ operating profits and was followed by a spike in trademark lawsuits and lower entry and exit in affected product markets. Treated firms reduced R&D spending, produced fewer patents and new products, and recalled a higher number of unsafe products. Our results suggest that stronger trademark protection negatively affected innovation and product quality. [Internet Appendix](Heath_Mace_RFS2019_IA.pdf) [Replication Code](Heath_Mace_RFS2019_replication_code.zip)  [U.S. Trademarks to Compustat Bridge File](heath_mace_tm_bridge.zip)
 
 
 <br>
