@@ -16,7 +16,7 @@ Distinguished Teaching Award 2018
 
 <br>
 
-
+[MCMC](Market_crashes_merger_completions_slides.pdf)
 
 ### Working Papers
 
