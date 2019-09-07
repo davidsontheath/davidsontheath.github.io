@@ -16,8 +16,6 @@ Distinguished Teaching Award 2018
 
 <br>
 
-[MCMC](Market_crashes_merger_completions_slides.pdf)
-
 ### Working Papers
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
