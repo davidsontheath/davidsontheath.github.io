@@ -1,4 +1,7 @@
-![dth](images/dth2016.jpeg)
+
+<p align="center"> 
+<img src="images/dth2016.jpeg">
+</p>
 
 **Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 801-581-3948 &nbsp; **Office:** SFEBB 7217
 
