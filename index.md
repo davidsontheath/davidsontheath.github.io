@@ -28,7 +28,7 @@ Natural experiments are used in empirical research to make causal inferences. Af
 <br>
 
 
-**[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
+**[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg  **[slides](CHR.pdf)**
 
 We quantify the impact of index investing on asset prices and trading behavior. Using a new research design based on post-2007 Russell index reconstitutions, we confirm that index investing alters the markets for individual stocks, but does not affect the informational efficiency of prices or trading by informed participants. Stocks with more index investors have higher share turnover, index correlations, and short interest, and less total information production. However, there is no difference -- precisely estimated -- in their variance ratios, institutional trading, earnings announcement returns, or anomaly mispricing. In other words, index investing affects the markets for and attention to individual index stocks, but does not affect price efficiency or informativeness.
 
