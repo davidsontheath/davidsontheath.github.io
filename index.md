@@ -27,6 +27,18 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 <br>
 
+**[Market Crashes and Merger Completions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+
+A primary concern in mergers and acquisitions is the risk that the deal may be cancelled before completion. We document that this "interim risk" varies asymmetrically with the aggregate stock market: When the market falls sharply, cash deals are more than twice as likely to be cancelled. For stock deals and for cash deals with a definitive agreement in place there is no effect, consistent with costly renegotiation as a mechanism. Interim risk also alters the terms of merger deals that are announced and completed.
+
+<br>
+
+**[ETF Trading and the Bifurcation of Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+
+Passively managed exchange traded funds (ETFs) are a financial technology that has risen dramatically in the last two decades. Over the same period liquid stocks have become more liquid while illiquid stocks have not experienced a similar improvement. We model investors shifting from trading individual stocks to trading ETFs and generate predictions consistent with the documented bifurcation in liquidity. Using daily ETF creation and redemption activity, we provide empirical evidence that closely matches the model's predictions. The results show that the effects of ETFs on underlying asset markets are driven by their index replication strategy.
+
+<br>
+
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
