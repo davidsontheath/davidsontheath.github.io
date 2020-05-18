@@ -17,7 +17,7 @@ FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2020_Spring_FINA
 
 Distinguished Teaching Award 2018
 
-Brady Faculty Superior Teaching Award 2020
+Brady Faculty Teaching Award 2020
 
 <br>
 
