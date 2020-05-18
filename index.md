@@ -13,9 +13,11 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2019_Spring_FINAN_6022.pdf)**
+FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2020_Spring_FINAN_6022_Financial_Management_2.pdf)**
 
 Distinguished Teaching Award 2018
+
+Brady Faculty Superior Teaching Award 2020
 
 <br>
 
