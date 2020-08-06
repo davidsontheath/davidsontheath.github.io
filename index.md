@@ -29,9 +29,10 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 <br>
 
-**[Market Crashes and Merger Completions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
 
-A primary concern in mergers and acquisitions is the risk that the deal may be cancelled before completion. We document that this "interim risk" varies asymmetrically with the aggregate stock market: When the market falls sharply, cash deals are more than twice as likely to be cancelled. For stock deals and for cash deals with a definitive agreement in place there is no effect, consistent with costly renegotiation as a mechanism. Interim risk also alters the terms of merger deals that are announced and completed.
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this "interim risk" varies asymmetrically with the aggregate market return. Deals paid in cash tend to be renegotiated when the market rises but cancelled when the market crashes. There is no such effect for deals paid in stock, consistent with a mechanism of costly renegotiation. Variation in interim risk over time affects the market for corporate control, altering the method of payment and the firms that are targeted and acquired.
+
 
 <br>
 
