@@ -36,9 +36,9 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 <br>
 
-**[ETF Trading and the Bifurcation of Liquidity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+**[Market on Tilt: ETF Trading and Market Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
 
-Passively managed exchange traded funds (ETFs) are a financial technology that has risen dramatically in the last two decades. Over the same period liquid stocks have become more liquid while illiquid stocks have not experienced a similar improvement. We model investors shifting from trading individual stocks to trading ETFs and generate predictions consistent with the documented bifurcation in liquidity. Using daily ETF creation and redemption activity, we provide empirical evidence that closely matches the model's predictions. The results show that the effects of ETFs on underlying asset markets are driven by their index replication strategy.
+Exchange traded funds (ETFs) that track a specified index are a financial technology that has risen dramatically in the last two decades. We model an ETF's optimal index replication strategy and show that it involves underweighting or omitting illiquid index assets. Instrumenting for ETF trading activity, we find that documented effects of ETFs on asset markets differ or even flip sign depending on an asset's preexisting liquidity. These effects are stronger for ETFs that explicitly sample their underlying index. The results show that the effects of ETFs on underlying asset markets are determined by their index replication strategy.
 
 <br>
 
