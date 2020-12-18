@@ -25,6 +25,8 @@ Brady Faculty Teaching Award 2020
 
 **[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
 
+*R&R, Journal of Financial Economics*
+
 Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy.
 
 <br>
@@ -52,12 +54,16 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 
 **[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
 
-Passively managed index funds now hold over 25% of U.S. mutual fund and ETF assets. The rise of index investing raises fundamental questions about monitoring and corporate governance. We examine the voice and exit mechanisms and find that compared to active funds, index funds rarely vote against firm management on contentious corporate governance issues, and do not use exit to express dissatisfaction with firm management. Moreover, across a variety of tests, we find no evidence that index funds engage with firm management. Our results suggest that the rise of index investing is shifting control from investors to firm managers.
+*Accepted, Review of Financial Studies*
+
+Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers.
 
 <br>
 
 
 **[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
+
+*R&R, Management Science*
 
 A robust and controversial finding in the capital structure literature is the inverse relation between profitability and leverage. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms and has product-market spillovers on their suppliers. We find that treated firms and their suppliers similarly increase their profitability, but only suppliers reduce their leverage in response. The different nature of profitability shocks explains the results: The profitability increase was permanent and riskless for treated firms, but transitory and risky for suppliers. Unobserved components of profitability variation seem to explain earlier findings.
 
