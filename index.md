@@ -52,14 +52,6 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 <br>
 
 
-**[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
-
-*Accepted, Review of Financial Studies*
-
-Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers.
-
-<br>
-
 
 **[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
@@ -71,6 +63,15 @@ A robust and controversial finding in the capital structure literature is the in
 
 
 ### Published Papers
+
+
+**[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+
+*Accepted, Review of Financial Studies*
+
+Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers.
+
+<br>
 
 
 **[The Strategic Effects of Trademark Protection](https://papers.ssrn.com/abstract=2798473)** with [Chris Mace](https://christophermace.github.io/)  
