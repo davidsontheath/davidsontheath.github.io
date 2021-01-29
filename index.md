@@ -38,9 +38,9 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 <br>
 
-**[Market on Tilt: ETF Trading and Market Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+**[ETF Design and Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
 
-Exchange traded funds (ETFs) that track a specified index are a financial technology that has risen dramatically in the last two decades. We model an ETF's optimal index replication strategy and show that it involves underweighting or omitting illiquid index assets. Instrumenting for ETF trading activity, we find that documented effects of ETFs on asset markets differ or even flip sign depending on an asset's preexisting liquidity. These effects are stronger for ETFs that explicitly sample their underlying index. The results show that the effects of ETFs on underlying asset markets are determined by their index replication strategy.
+This paper theoretically and empirically shows that passive investing has heterogeneous effects on asset markets. We develop a model which predicts that funds optimally underweight illiquid index assets. Instrumenting for trading activity from exchange traded funds (ETFs), we show that ETF trading reduces the market quality of liquid assets but does not impact the market quality of illiquid assets. The effects are stronger for funds that explicitly sample their underlying index, compared to funds that are fully replicating. Thus, the effects of passive investing on asset markets depend on how intermediaries replicate their target index.
 
 <br>
 
