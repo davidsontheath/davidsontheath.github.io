@@ -19,6 +19,8 @@ Distinguished Teaching Award 2018
 
 Brady Faculty Teaching Award 2020
 
+**[My online teaching setup](My_Online_Teaching_Setup.pdf)**
+
 <br>
 
 ### Working Papers
