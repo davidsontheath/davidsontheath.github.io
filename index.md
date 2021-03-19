@@ -33,9 +33,9 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 <br>
 
-**[Costly Renegotiation in Merger Deals](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
 
-We investigate costly renegotiation in large corporate mergers. We document that merger deals to be paid in cash tend to be renegotiated when the market rises, but cancelled when the market crashes, yet there are no such effects for deals to be paid in the acquiror's stock. These results are not explained by alternative mechanisms such as adverse selection or stock mispricing. Variation in renegotiation risk affects the market for corporate control, altering the method of payment, premium paid, and the firms that are targeted and acquired.
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this "interim risk" varies asymmetrically with the aggregate market return. Deals paid in cash tend to be renegotiated when the market rises but cancelled when the market crashes, yet there is no such effect for deals paid in stock, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time affects the market for corporate control, altering the method of payment and the firms that are targeted and acquired.
 
 
 <br>
