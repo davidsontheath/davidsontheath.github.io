@@ -25,6 +25,14 @@ Brady Faculty Teaching Award 2020
 
 ### Working Papers
 
+
+**[Does Socially Responsible Investing Change Firm Behavior?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3837706)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+
+Socially responsible investment (SRI) funds are increasing in popularity. Yet, it is unclear if these funds improve corporate behavior. Using novel micro-level data, we find that SRI funds select firms with higher environmental and social standards: the firms they hold exhibit lower pollution, greater board diversity, higher employee satisfaction, higher workplace safety, and fewer customer complaints. Yet, using an exogenous shock to SRI capital, we find no evidence that SRI funds improve firm behavior. The results suggest SRI funds invest in a portfolio consistent with the fund's objective, but they do not significantly improve corporate conduct.
+
+<br>
+
+
 **[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
 
 *R&R, Journal of Financial Economics*
