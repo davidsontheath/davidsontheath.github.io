@@ -13,7 +13,7 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Most recent evals](HEATH_2020_Spring_FINAN_6022_Financial_Management_2.pdf)**
+FINAN 6022 - Financial Management   **[Most recent evals](Heath Davidson FINAN 6022-001 Financial Management Spring 2021.pdf)**
 
 Distinguished Teaching Award 2018
 
