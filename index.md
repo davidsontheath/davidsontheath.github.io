@@ -81,7 +81,7 @@ A robust and controversial finding in the capital structure literature is the in
 
 *[Review of Financial Studies (2021)](https://doi.org/10.1093/rfs/hhab023)*
 
-Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers.
+Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers. [Internet Appendix](DIFM_Internet_Appendix.pdf) [Replication Code](https://www.dropbox.com/s/if4s5lbon478bgr/DIFM_replication_code_and_data.zip?dl=1) 
 
 <br>
 
