@@ -65,16 +65,17 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 
 
 
-**[Not all profits are created equal: New evidence on the profits-leverage puzzle](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
-
-*R&R, Management Science*
-
-A robust and controversial finding in the capital structure literature is the inverse relation between profitability and leverage. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms and has product-market spillovers on their suppliers. We find that treated firms and their suppliers similarly increase their profitability, but only suppliers reduce their leverage in response. The different nature of profitability shocks explains the results: The profitability increase was permanent and riskless for treated firms, but transitory and risky for suppliers. Unobserved components of profitability variation seem to explain earlier findings.
-
-<br>
 
 
 ### Published Papers
+
+**[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
+
+*Accepted at Management Science*
+
+The relationship between profitability and leverage has been controversial in the capital structure literature. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms.  We find that treated firms increase their profitability throughout the treatment period. However, they only transiently reduce financial leverage, gradually reverting to their pre-shock level. Firms respond differently according to size, with large firms gradually adjusting their leverage towards a new target and small firms reducing it. The patterns are broadly consistent with dynamic trade-off models with both fixed and variable adjustment costs.
+
+<br>
 
 
 **[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
