@@ -32,6 +32,13 @@ Socially responsible investment (SRI) funds are increasing in popularity. Yet, i
 
 <br>
 
+**[ETF Design and Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+
+This paper theoretically and empirically shows that passive investing has heterogeneous effects on asset markets. We develop a model which predicts that funds optimally underweight illiquid index assets. Instrumenting for trading activity from exchange traded funds (ETFs), we show that ETF trading reduces the market quality of liquid assets but does not impact the market quality of illiquid assets. The effects are stronger for funds that explicitly sample their underlying index, compared to funds that are fully replicating. Thus, the effects of passive investing on asset markets depend on how intermediaries replicate their target index.
+
+<br>
+
+
 
 **[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
 
@@ -50,14 +57,10 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 <br>
 
-**[ETF Design and Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
-
-This paper theoretically and empirically shows that passive investing has heterogeneous effects on asset markets. We develop a model which predicts that funds optimally underweight illiquid index assets. Instrumenting for trading activity from exchange traded funds (ETFs), we show that ETF trading reduces the market quality of liquid assets but does not impact the market quality of illiquid assets. The effects are stronger for funds that explicitly sample their underlying index, compared to funds that are fully replicating. Thus, the effects of passive investing on asset markets depend on how intermediaries replicate their target index.
-
-<br>
-
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
+
+*R&R, Journal of Financial Economics*
 
 We quantify the impact of index investing on asset prices and trading behavior. Using a new research design based on post-2007 Russell index reconstitutions, we confirm that index investing alters the markets for individual stocks, but does not affect the informational efficiency of prices or trading by informed participants. Stocks with more index investors have higher share turnover, index correlations, and short interest, and less total information production. However, there is no difference -- precisely estimated -- in their variance ratios, institutional trading, earnings announcement returns, or anomaly mispricing. In other words, index investing affects the markets for and attention to individual index stocks, but does not affect price efficiency or informativeness.
 
