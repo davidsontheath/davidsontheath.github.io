@@ -32,9 +32,9 @@ Socially responsible investment (SRI) funds are increasing in popularity. Yet, i
 
 <br>
 
-**[ETF Design and Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+**[The Heterogeneous Effects of Passive Investing on Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
 
-This paper theoretically and empirically shows that passive investing has heterogeneous effects on asset markets. We develop a model which predicts that funds optimally underweight illiquid index assets. Instrumenting for trading activity from exchange traded funds (ETFs), we show that ETF trading reduces the market quality of liquid assets but does not impact the market quality of illiquid assets. The effects are stronger for funds that explicitly sample their underlying index, compared to funds that are fully replicating. Thus, the effects of passive investing on asset markets depend on how intermediaries replicate their target index.
+This paper shows that passive funds systematically underweight or omit illiquid index assets. As a result, ETF trading activity consumes liquidity and reduces market quality for liquid assets, but has no effect on illiquid assets. Focusing on the unconditional average effect of passive investing and ignoring the passive funds' index deviations underestimates the local treatment effect by up to 58%. Overall, the effects of passive investing on asset markets depend on how intermediaries replicate their target index.
 
 <br>
 
