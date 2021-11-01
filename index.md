@@ -48,15 +48,6 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 <br>
 
-**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
-
-*R&R, Management Science*
-
-A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this "interim risk" varies asymmetrically with the aggregate market return. Deals paid in cash tend to be renegotiated when the market rises but cancelled when the market crashes, yet there is no such effect for deals paid in stock, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time affects the market for corporate control, altering the method of payment and the firms that are targeted and acquired.
-
-
-<br>
-
 
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
@@ -70,7 +61,17 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 
 
 
-### Published Papers
+### Published and Forthcoming Papers
+
+**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+
+*Accepted at Management Science*
+
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this "interim risk" varies asymmetrically with the aggregate market return. Deals paid in cash tend to be renegotiated when the market rises but cancelled when the market crashes, yet there is no such effect for deals paid in stock, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time affects the market for corporate control, altering the method of payment and the firms that are targeted and acquired.
+
+
+<br>
+
 
 **[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
