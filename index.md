@@ -67,7 +67,7 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 
 *Accepted at Management Science*
 
-A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this "interim risk" varies asymmetrically with the aggregate market return. Deals paid in cash tend to be renegotiated when the market rises but cancelled when the market crashes, yet there is no such effect for deals paid in stock, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time affects the market for corporate control, altering the method of payment and the firms that are targeted and acquired.
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired.
 
 
 <br>
