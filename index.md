@@ -39,24 +39,22 @@ This paper shows that passive funds systematically underweight or omit illiquid 
 <br>
 
 
-
-**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
-
-*R&R, Journal of Financial Economics*
-
-Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy.
-
-<br>
-
-
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
 *R&R, Journal of Financial Economics*
 
 We quantify the impact of index investing on asset prices and trading behavior. Using a new research design based on post-2007 Russell index reconstitutions, we confirm that index investing alters the markets for individual stocks, but does not affect the informational efficiency of prices or trading by informed participants. Stocks with more index investors have higher share turnover, index correlations, and short interest, and less total information production. However, there is no difference -- precisely estimated -- in their variance ratios, institutional trading, earnings announcement returns, or anomaly mispricing. In other words, index investing affects the markets for and attention to individual index stocks, but does not affect price efficiency or informativeness.
 
+
 <br>
 
+
+**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
+
+
+Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy.
+
+<br>
 
 
 
