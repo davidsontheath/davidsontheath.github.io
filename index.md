@@ -5,7 +5,7 @@
 
 **Email:** davidson.heath@eccles.utah.edu &nbsp;  **Phone:** 801-581-3948 &nbsp; **Office:** SFEBB 7217
 
-**[LinkedIn](https://www.linkedin.com/in/davidson-heath-5a28999a)**
+**[Google Scholar](https://scholar.google.com/citations?hl=en&user=Fr-HyLEAAAAJ)**
 
 **[CV](dheath_CV.pdf)**
 
