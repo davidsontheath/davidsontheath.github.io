@@ -49,21 +49,24 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 <br>
 
 
-**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
-
-
-Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy.
-
-<br>
 
 
 
 
 ### Published and Forthcoming Papers
 
+**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
+
+*Forthcoming, Journal of Finance*
+
+Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy.
+
+<br>
+
+
 **[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
 
-*Accepted at Management Science*
+*Forthcoming, Management Science*
 
 A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired.
 
@@ -73,7 +76,7 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 **[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
-*Accepted at Management Science*
+*Forthcoming, Management Science*
 
 The relationship between profitability and leverage has been controversial in the capital structure literature. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms.  We find that treated firms increase their profitability throughout the treatment period. However, they only transiently reduce financial leverage, gradually reverting to their pre-shock level. Firms respond differently according to size, with large firms gradually adjusting their leverage towards a new target and small firms reducing it. The patterns are broadly consistent with dynamic trade-off models with both fixed and variable adjustment costs.
 
