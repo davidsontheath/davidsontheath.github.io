@@ -85,7 +85,7 @@ The relationship between profitability and leverage has been controversial in th
 
 **[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
 
-*[Review of Financial Studies (2021)](https://doi.org/10.1093/rfs/hhab023)*
+*[Review of Financial Studies (2022)](https://doi.org/10.1093/rfs/hhab023)*
 
 Passively managed index funds now hold over 30% of U.S. equity fund assets; this shift raises fundamental questions about monitoring and governance. We show that, relative to active funds, index funds are less effective monitors: (i) they are less likely to vote against firm management on contentious governance issues; (ii) there is no evidence they engage effectively publicly or privately, and (iii) they lead to less board independence and worse pay-performance sensitivity at their portfolio companies. Overall, the rise of index funds is decreasing the alignment of incentives between beneficial owners and firm management and shifting control from investors to managers. [Internet Appendix](DIFM_InternetAppendix.pdf) [Replication Code](https://www.dropbox.com/s/if4s5lbon478bgr/DIFM_replication_code_and_data.zip?dl=1) 
 
@@ -105,7 +105,7 @@ We study the effects of trademark protection on firms’ profits and strategy us
 
 *[American Law and Economics Review (2019)](https://academic.oup.com/aler/article/21/1/184/5482489)*
 
-Price impacts in legal event studies are systematically overestimated, a problem that carries over into damages calculations and results in securities litigation being settled or decided for excessive damages. We quantify and examine the bias using the empirical distribution of daily stock returns, and develop bias-corrected estimators of price impacts for single-event studies. 
+The single-firm event studies that securities litigants use to detect the impact of a corrective disclosure on a firm’s stock price have low statistical power. As a result, observed price impacts are biased against defendants and systematically overestimate the effect on firm value. We use the empirical distribution of daily stock returns to analyze the bias and develop bias-corrected estimators of price impact in securities litigation. Because of low statistical power, the ex ante incentives against committing securities fraud are also too low. We analyze the adjustment for optimal deterrence and find that it is material, but is nowhere equal to the opposing truncation bias.
 [Replication Code](https://github.com/davidsontheath/bias_corrected_estimators)
 
 <br>
