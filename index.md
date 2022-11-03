@@ -36,6 +36,8 @@ Using micro-level data, we examine the impact of socially responsible investment
 
 **[The Heterogeneous Effects of ETFs on Asset Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
 
+*Revise and Resubmit, Journal of Financial and Quantitative Analysis*
+
 Passively tracking an index involves tradeoffs, the most basic of which is to minimize tracking error while controlling transaction costs. This paper shows that exchange-traded funds (ETFs) systematically underweight or omit illiquid index assets. As a result, ETFs have heterogeneous effects on underlying asset markets. Using an instrumental variables approach, we find that the trading activity of ETFs harms liquidity and price efficiency and increases volatility and co-movement for liquid assets, but has no effect on illiquid assets. Our results show that the effects of passive investing on asset markets depend on how passive intermediaries replicate their target index.
 
 <br>
