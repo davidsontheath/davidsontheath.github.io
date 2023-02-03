@@ -46,7 +46,7 @@ Passively tracking an index involves tradeoffs, the most basic of which is to mi
 
 *Accepted, Review of Finance*
 
-Using micro-level data, we examine the behavior of socially responsible investment (SRI) funds. SRI funds select firms with lower pollution, more board diversity, higher employee satisfaction, and better workplace safety. Yet both in the cross-section and using an exogenous shock to SRI capital, we find SRI funds do not significantly change firm behavior. Moreover, we find little evidence they try to impact firm behavior using shareholder proposals. Our results suggest SRI funds are not greenwashing, but they are impact washing; they invest in a portfolio of firms with better environmental and social conduct, but do not follow through on their promise of impact.
+Using micro-level data, we examine the behavior of socially responsible investment (SRI) funds. SRI funds select firms with lower pollution, more board diversity, higher employee satisfaction, and better workplace safety. Yet both in the cross-section and using an exogenous shock to SRI capital, we find SRI funds do not significantly change firm behavior. Moreover, we find little evidence they try to impact firm behavior using shareholder proposals. Our results suggest SRI funds are not greenwashing, but they are impact washing; they invest in a portfolio of firms with better environmental and social conduct, but do not follow through on their promise of impact. [Replication Code](SRI_code_and_data.zip)
 
 <br>
 
