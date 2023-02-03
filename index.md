@@ -72,7 +72,7 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 *Forthcoming, Management Science*
 
-A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired.
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired. [Replication Code](InterimRisk_code_and_data.zip)
 
 
 <br>
@@ -82,7 +82,7 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 *Forthcoming, Management Science*
 
-The relationship between profitability and leverage has been controversial in the capital structure literature. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms.  We find that treated firms increase their profitability throughout the treatment period. However, they only transiently reduce financial leverage, gradually reverting to their pre-shock level. Firms respond differently according to size, with large firms gradually adjusting their leverage towards a new target and small firms reducing it. The patterns are broadly consistent with dynamic trade-off models with both fixed and variable adjustment costs.
+The relationship between profitability and leverage has been controversial in the capital structure literature. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms.  We find that treated firms increase their profitability throughout the treatment period. However, they only transiently reduce financial leverage, gradually reverting to their pre-shock level. Firms respond differently according to size, with large firms gradually adjusting their leverage towards a new target and small firms reducing it. The patterns are broadly consistent with dynamic trade-off models with both fixed and variable adjustment costs. [Replication Code](PandFL_code_and_data.zip) 
 
 <br>
 
