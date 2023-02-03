@@ -63,7 +63,7 @@ We quantify the impact of index investing on asset prices and trading behavior. 
 
 *Accepted, Journal of Finance*
 
-Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy. [Replication Code]([InterimRisk_code_and_data](https://www.dropbox.com/s/zzoe4y10urb6mlf/NatExp_replicationcodeanddata.zip?dl=1)
+Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy. [Replication Code](https://www.dropbox.com/s/zzoe4y10urb6mlf/NatExp_replicationcodeanddata.zip?dl=1)
 
 <br>
 
