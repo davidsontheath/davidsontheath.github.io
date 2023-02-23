@@ -44,7 +44,7 @@ Passively tracking an index involves tradeoffs, the most basic of which is to mi
 
 **[Does Socially Responsible Investing Change Firm Behavior?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3837706)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
 
-*Accepted, Review of Finance*
+*[Review of Finance (2023)](https://academic.oup.com/rof/advance-article/doi/10.1093/rof/rfad002/7028495)*
 
 Using micro-level data, we examine the behavior of socially responsible investment (SRI) funds. SRI funds select firms with lower pollution, more board diversity, higher employee satisfaction, and better workplace safety. Yet both in the cross-section and using an exogenous shock to SRI capital, we find SRI funds do not significantly change firm behavior. Moreover, we find little evidence they try to impact firm behavior using shareholder proposals. Our results suggest SRI funds are not greenwashing, but they are impact washing; they invest in a portfolio of firms with better environmental and social conduct, but do not follow through on their promise of impact. [Replication Code](SRI_code_and_data.zip)
 
