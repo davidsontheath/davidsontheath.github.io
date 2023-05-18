@@ -9,6 +9,8 @@
 
 **[CV](dheath_CV.pdf)**
 
+Faculty Research Excellence Award 2023
+
 <br>
 
 ### Teaching
@@ -18,6 +20,8 @@ FINAN 6022 - Financial Management   **[Most recent evals](6022-2023.pdf)**
 Distinguished Teaching Award 2018
 
 Brady Faculty Teaching Award 2020
+
+PMBA Outstanding Faculty Award 2023
 
 **[My online teaching setup](My_Online_Teaching_Setup.pdf)**
 
