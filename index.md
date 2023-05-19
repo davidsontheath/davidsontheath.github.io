@@ -9,8 +9,6 @@
 
 **[CV](dheath_CV.pdf)**
 
-Faculty Research Excellence Award 2023
-
 <br>
 
 ### Teaching
