@@ -56,7 +56,7 @@ Using micro-level data, we examine the behavior of socially responsible investme
 
 *[Journal of Finance (2023)](https://doi.org/10.1111/jofi.13250)*
 
-Natural experiments are used in empirical research to make causal inferences. After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy. [Replication Code](https://www.dropbox.com/s/zzoe4y10urb6mlf/NatExp_replicationcodeanddata.zip?dl=1)
+After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy. [Replication Code](https://www.dropbox.com/s/zzoe4y10urb6mlf/NatExp_replicationcodeanddata.zip?dl=1)
 
 
 <br>
@@ -65,7 +65,7 @@ Natural experiments are used in empirical research to make causal inferences. Af
 
 *[Journal of Financial Economics (2022)](https://www.sciencedirect.com/science/article/pii/S0304405X22001143?dgcid=coauthor)* - _Lead Article_
 
-We quantify the impact of index investing on asset prices and trading behavior. Using a new research design based on post-2007 Russell index reconstitutions, we confirm that index investing alters the markets for individual stocks, but does not affect the informational efficiency of prices or trading by informed participants. Stocks with more index investors have higher share turnover, index correlations, and short interest, and less total information production. However, there is no difference -- precisely estimated -- in their variance ratios, institutional trading, earnings announcement returns, or anomaly mispricing. In other words, index investing affects the markets for and attention to individual index stocks, but does not affect price efficiency or informativeness. [Replication Code](OII_code_and_data.zip) 
+We empirically examine the effects of index investing using predictions derived from a Grossman-Stiglitz framework. An exogenous increase in index investing leads to lower information production as measured by Google searches, EDGAR views, and analyst reports, yet price informativeness remains unchanged. These findings are consistent with an equilibrium in which investors choose to gather private information whenever it is profitable. As index investing increases, there are fewer privately-informed active investors (so overall information production drops), but the mix of investors adjusts until the returns to active investing are unchanged. As a result, passive investing does not undermine price efficiency. [Replication Code](OII_code_and_data.zip) 
 
 
 <br>
