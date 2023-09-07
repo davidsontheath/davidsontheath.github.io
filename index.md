@@ -61,6 +61,16 @@ After a natural experiment is first used, other researchers often reuse the sett
 
 <br>
 
+
+**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+
+*[Management Science (2023)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4315)*
+
+A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired. [Replication Code](InterimRisk_code_and_data.zip)
+
+
+<br>
+
 **[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
 
 *[Journal of Financial Economics (2022)](https://www.sciencedirect.com/science/article/pii/S0304405X22001143?dgcid=coauthor)* - _Lead Article_
@@ -68,14 +78,6 @@ After a natural experiment is first used, other researchers often reuse the sett
 We empirically examine the effects of index investing using predictions derived from a Grossman-Stiglitz framework. An exogenous increase in index investing leads to lower information production as measured by Google searches, EDGAR views, and analyst reports, yet price informativeness remains unchanged. These findings are consistent with an equilibrium in which investors choose to gather private information whenever it is profitable. As index investing increases, there are fewer privately-informed active investors (so overall information production drops), but the mix of investors adjusts until the returns to active investing are unchanged. As a result, passive investing does not undermine price efficiency. [Replication Code](OII_code_and_data.zip) 
 
 
-<br>
-
-
-**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
-
-*Forthcoming, Management Science*
-
-A primary concern in mergers and acquisitions is the risk the deal may be cancelled before it is completed. We document that this “interim risk” varies asymmetrically with the aggregate market return. Deals tend to be renegotiated when the market rises but cancelled when the market crashes. These effects are conditional on the method of payment and the contracting stage of the deal, consistent with a mechanism of ex post renegotiation. Variation in interim risk over time alters the method of payment in mergers and the firms that are targeted and acquired. [Replication Code](InterimRisk_code_and_data.zip)
 
 
 <br>
@@ -83,7 +85,7 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 **[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
 
-*Forthcoming, Management Science*
+*[Management Science (2022)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4235)*
 
 The relationship between profitability and leverage has been controversial in the capital structure literature. We revisit this relation in light of a novel quasi-natural experiment that increases market power for a subset of firms.  We find that treated firms increase their profitability throughout the treatment period. However, they only transiently reduce financial leverage, gradually reverting to their pre-shock level. Firms respond differently according to size, with large firms gradually adjusting their leverage towards a new target and small firms reducing it. The patterns are broadly consistent with dynamic trade-off models with both fixed and variable adjustment costs. [Replication Code](PandFL_code_and_data.zip) 
 
