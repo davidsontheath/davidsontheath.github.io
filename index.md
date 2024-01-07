@@ -54,7 +54,7 @@ Using micro-level data, we examine the behavior of socially responsible investme
 
 **[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
 
-*[Journal of Finance (2023)](https://doi.org/10.1111/jofi.13250)*
+*[Journal of Finance (2023)](https://doi.org/10.1111/jofi.13250)* -- _Brattle Prize, Distinguished Paper_
 
 After a natural experiment is first used, other researchers often reuse the setting, examining different outcomes based on causal chain arguments. Using simulation evidence combined with two extensively studied natural experiments, business combination laws and the Regulation SHO pilot, we show that the repeated use of a natural experiment significantly increases the likelihood of false discoveries. To correct this, we propose multiple testing methods which account for dependence across tests and we show evidence of their efficacy. [Replication Code](https://www.dropbox.com/s/zzoe4y10urb6mlf/NatExp_replicationcodeanddata.zip?dl=1)
 
