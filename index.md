@@ -36,8 +36,11 @@ This paper shows that exchange-traded funds (ETFs) "sample" their indexes, syste
 
 <br>
 
+**[Teamwork and the Homophily Trap](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655458)** with Nathan Seegert and Jeffrey Yang
 
+We investigate team diversity and productivity in the setting of open source software. We find that team diversity is low relative to the contributor pool, with the most mass at the lowest level of diversity (monoculture). This pattern is explained by homophily, the preference to associate with similar people, which leads to teams becoming trapped in low-diversity equilibria. Our results are robust to instrumenting changes in team diversity using teams' exposure to country-level changes in Internet access. Teams that escape the "homophily trap" add more diversity and increase productivity relative to teams that do not.
 
+<br>
 
 
 
