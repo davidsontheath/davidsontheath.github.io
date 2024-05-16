@@ -13,7 +13,7 @@
 
 ### Teaching
 
-FINAN 6022 - Financial Management   **[Most recent evals](FINAN 6022-001 Financial Management  Spring 2024.pdf)**
+FINAN 6022 - Financial Management   **[Most recent evals](FINAN_6022-001_2024.pdf)**
 
 Distinguished Teaching Award 2018
 
