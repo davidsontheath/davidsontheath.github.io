@@ -143,4 +143,4 @@ Massive convergence failures in CBOT agricultural contracts in 2007-2008 were ca
 <br>
 
 
-
+**[usc slides](OSS_homophilytrap_USC.pdf)**
