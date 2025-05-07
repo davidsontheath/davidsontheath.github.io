@@ -21,18 +21,23 @@ Brady Faculty Teaching Award 2020
 
 PMBA Outstanding Faculty Award 2023
 
+Distinguished Teaching Award 2025
+
 **[My online teaching setup](My_Online_Teaching_Setup.pdf)**
 
 <br>
 
 ### Working Papers
 
+**[The Economics of Investor Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030999)** with Daniele Macciocchi and Matt Ringgenberg
 
-**[ETF Sampling and Index Arbitrage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+Institutional investors engage with their portfolio companies to communicate information and preferences. Using a discrete choice model and novel data on engagement, we find that the costs and benefits of engagement vary across funds and firms, with passive funds engaging relatively less than active funds due to their lower fees. Contrary to concerns that passive investing generates negative externalities, we find that society and investors benefit from the rise of passive investing because active funds exhibit diseconomies of scale but passive funds do not. Our results highlight a misalignment between the socially optimal and privately optimal behavior of institutional investors.
 
-*Revise and Resubmit, Journal of Financial and Quantitative Analysis*
+<br>
 
-This paper shows that exchange-traded funds (ETFs) "sample" their indexes, systematically underweighting or omitting illiquid index stocks. As a result, arbitrage activity between the ETF and its index has heterogeneous effects on underlying asset markets. Using an instrumental variables approach, we find that the trading activity of ETFs reduces liquidity and price efficiency and increases volatility and co-movement for liquid stocks, but has no effect on illiquid stocks. Our results demonstrate that the effects of passive investing on asset markets depend on how passive funds replicate their target index.
+**[All Shareholder Votes Are Not Created Equal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200592)** with Da Huang and Chong Shu
+
+Do firm managers listen more to some shareholders than others? We show that directors facing the same level of dissent are twice as likely to leave the board when the dissent originates from active fund shareholders rather than passive ones. This phenomenon is driven by the stronger disciplinary threat posed by active funds rather than by any informational advantage. As a result, despite the large holdings of the "Big Three" passive asset managers, we find that their votes carry the same weight as those of an average active fund. Our findings highlight that shareholder democracy depends not only on the vote tally, but also on who casts the votes.
 
 <br>
 
@@ -46,6 +51,14 @@ We investigate team diversity and productivity in the setting of open source sof
 
 
 ### Published and Forthcoming Papers
+
+**[ETF Sampling and Index Arbitrage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+
+*Accepted, Journal of Financial and Quantitative Analysis*
+
+This paper shows that exchange-traded funds (ETFs) "sample" their indexes, systematically underweighting or omitting illiquid index stocks. As a result, arbitrage activity between the ETF and its index has heterogeneous effects on underlying asset markets. Using an instrumental variables approach, we find that the trading activity of ETFs reduces liquidity and price efficiency and increases volatility and co-movement for liquid stocks, but has no effect on illiquid stocks. Our results demonstrate that the effects of passive investing on asset markets depend on how passive funds replicate their target index.
+
+<br>
 
 **[Does Socially Responsible Investing Change Firm Behavior?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3837706)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
 
