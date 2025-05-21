@@ -19,7 +19,7 @@ Distinguished Teaching Award 2018
 
 Brady Faculty Teaching Award 2020
 
-PMBA Outstanding Faculty Award 2023
+Distinguished Teaching Award 2023
 
 Distinguished Teaching Award 2025
 
