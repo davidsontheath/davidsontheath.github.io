@@ -41,7 +41,7 @@ Do firm managers listen more to some shareholders than others? We show that dire
 
 <br>
 
-**[Teamwork and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4655458)** with Nathan Seegert and Jeffrey Yang
+**[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with Nathan Seegert, Robert Wuebker and Jeffrey Yang
 
 We investigate team diversity and productivity in the setting of open source software. We find that team diversity is low relative to the contributor pool, with the most mass at the lowest level of diversity (monoculture). This pattern is explained by homophily, the preference to associate with similar people, which leads to teams becoming trapped in low-diversity equilibria. Our results are robust to instrumenting changes in team diversity using teams' exposure to country-level changes in Internet access. Teams that escape the "homophily trap" add more diversity and increase productivity relative to teams that do not.
 
@@ -157,3 +157,4 @@ Massive convergence failures in CBOT agricultural contracts in 2007-2008 were ca
 
 
 **[usc slides](OSS_homophilytrap_USC.pdf)**
+
