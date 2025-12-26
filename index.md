@@ -54,7 +54,7 @@ We investigate team diversity and productivity in the setting of open source sof
 
 **[ETF Sampling and Index Arbitrage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
 
-*Accepted, Journal of Financial and Quantitative Analysis*
+*[Journal of Financial and Quantitative Analysis (2025)](https://doi.org/10.1017/S0022109025102378)*
 
 This paper shows that exchange-traded funds (ETFs) "sample" their indexes, systematically underweighting or omitting illiquid index stocks. As a result, arbitrage activity between the ETF and its index has heterogeneous effects on underlying asset markets. Using an instrumental variables approach, we find that the trading activity of ETFs reduces liquidity and price efficiency and increases volatility and co-movement for liquid stocks, but has no effect on illiquid stocks. Our results demonstrate that the effects of passive investing on asset markets depend on how passive funds replicate their target index.
 
@@ -154,6 +154,7 @@ This paper documents new evidence against perfect risk spanning in crude oil fut
 Massive convergence failures in CBOT agricultural contracts in 2007-2008 were caused by caps on the fees that storage providers could charge holders of delivery certificates.
 
 <br>
+
 
 
 
