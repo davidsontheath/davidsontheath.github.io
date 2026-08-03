@@ -29,19 +29,19 @@ Distinguished Teaching Award 2025
 
 ### Working Papers
 
-**[The Economics of Investor Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030999)** with Daniele Macciocchi and Matt Ringgenberg
+**[The Economics of Investor Engagement](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030999)** with [Daniele Macciocchi](https://www.daniele-macciocchi.com/) and [Matt Ringgenberg](https://www.matthewringgenberg.com/)
 
 Institutional investors engage with their portfolio companies to communicate information and preferences. Using a discrete choice model and novel data on engagement, we find that the costs and benefits of engagement vary across funds and firms, with passive funds engaging relatively less than active funds due to their lower fees. Contrary to concerns that passive investing generates negative externalities, we find that society and investors benefit from the rise of passive investing because active funds exhibit diseconomies of scale but passive funds do not. Our results highlight a misalignment between the socially optimal and privately optimal behavior of institutional investors.
 
 <br>
 
-**[All Shareholder Votes Are Not Created Equal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200592)** with Da Huang and Chong Shu
+**[All Shareholder Votes Are Not Created Equal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5200592)** with [Da Huang](https://dahuang-finance.github.io/) and [Chong Shu](https://chong-shu.com/)
 
 Do firm managers listen more to some shareholders than others? We show that directors facing the same level of dissent are twice as likely to leave the board when the dissent originates from active fund shareholders rather than passive ones. This phenomenon is driven by the stronger disciplinary threat posed by active funds rather than by any informational advantage. As a result, despite the large holdings of the "Big Three" passive asset managers, we find that their votes carry the same weight as those of an average active fund. Our findings highlight that shareholder democracy depends not only on the vote tally, but also on who casts the votes.
 
 <br>
 
-**[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with [Nathan Seegert](https://www.nathanseegert.com/), [Robert Wuebker](https://robwuebker.github.io/) and Jeffrey Yang
+**[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with [Nathan Seegert](https://www.nathanseegert.com/), [Robert Wuebker](https://robwuebker.github.io/) and [Jeffrey Yang](https://jeffreytyang.github.io/)
 
 *R&R, Strategic Management Journal*
 
@@ -72,7 +72,7 @@ Generative artificial intelligence dramatically lowers the cost of knowledge wor
 
 ### Published and Forthcoming Papers
 
-**[ETF Sampling and Index Arbitrage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with Jonathan Brogaard and Da Huang
+**[ETF Sampling and Index Arbitrage](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3510359)** with [Jonathan Brogaard](https://jonathanbrogaard.com/) and [Da Huang](https://dahuang-finance.github.io/)
 
 *[Journal of Financial and Quantitative Analysis (2026)](https://doi.org/10.1017/S0022109025102378)*
 
@@ -80,7 +80,7 @@ This paper shows that exchange-traded funds (ETFs) "sample" their indexes, syste
 
 <br>
 
-**[Does Socially Responsible Investing Change Firm Behavior?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3837706)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+**[Does Socially Responsible Investing Change Firm Behavior?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3837706)** with [Daniele Macciocchi](https://www.daniele-macciocchi.com/), [Roni Michaely](https://www.hkubs.hku.hk/people/roni-michaely/) and [Matt Ringgenberg](https://www.matthewringgenberg.com/)
 
 *[Review of Finance (2023)](https://academic.oup.com/rof/advance-article/doi/10.1093/rof/rfad002/7028495)* - _Pagano and Zechner Award_
 
@@ -88,7 +88,7 @@ Using micro-level data, we examine the behavior of socially responsible investme
 
 <br>
 
-**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with Matt Ringgenberg, Mehrdad Samadi and Ingrid Werner
+**[Reusing Natural Experiments](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3457525)** with [Matt Ringgenberg](https://www.matthewringgenberg.com/), [Mehrdad Samadi](https://sites.google.com/site/mksamadi/) and [Ingrid Werner](https://u.osu.edu/werner.47/)
 
 *[Journal of Finance (2023)](https://doi.org/10.1111/jofi.13250)* - _Brattle Prize, Distinguished Paper_
 
@@ -98,7 +98,7 @@ After a natural experiment is first used, other researchers often reuse the sett
 <br>
 
 
-**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with Mark Mitchell
+**[Market Returns and Interim Risk in Mergers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526931)** with [Mark Mitchell](https://voices.uchicago.edu/marklmitchell)
 
 *[Management Science (2023)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4315)*
 
@@ -107,7 +107,7 @@ A primary concern in mergers and acquisitions is the risk the deal may be cancel
 
 <br>
 
-**[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with Jeff Coles and Matt Ringgenberg
+**[On Index Investing](https://papers.ssrn.com/abstract=3055324)** with [Jeff Coles](https://eccles.utah.edu/team/jeffrey-l-coles/) and [Matt Ringgenberg](https://www.matthewringgenberg.com/)
 
 *[Journal of Financial Economics (2022)](https://www.sciencedirect.com/science/article/pii/S0304405X22001143?dgcid=coauthor)* - _Lead Article_
 
@@ -119,7 +119,7 @@ We empirically examine the effects of index investing using predictions derived 
 <br>
 
 
-**[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with Giorgo Sertsios
+**[Profitability and financial leverage: Evidence from a quasi-natural experiment](https://papers.ssrn.com/abstract=3056440)** with [Giorgo Sertsios](https://sertsios.weebly.com/)
 
 *[Management Science (2022)](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4235)*
 
@@ -128,7 +128,7 @@ The relationship between profitability and leverage has been controversial in th
 <br>
 
 
-**[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with Daniele Macciocchi, Roni Michaely and Matt Ringgenberg
+**[Do Index Funds Monitor?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3259433)** with [Daniele Macciocchi](https://www.daniele-macciocchi.com/), [Roni Michaely](https://www.hkubs.hku.hk/people/roni-michaely/) and [Matt Ringgenberg](https://www.matthewringgenberg.com/)
 
 *[Review of Financial Studies (2022)](https://doi.org/10.1093/rfs/hhab023)*
 
