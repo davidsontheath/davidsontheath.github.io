@@ -41,7 +41,7 @@ Do firm managers listen more to some shareholders than others? We show that dire
 
 <br>
 
-**[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with Nathan Seegert, Robert Wuebker and Jeffrey Yang
+**[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with [Nathan Seegert](https://www.nathanseegert.com/), [Robert Wuebker](https://robwuebker.github.io/) and Jeffrey Yang
 
 *R&R, Strategic Management Journal*
 
@@ -61,7 +61,7 @@ Going public turns illiquid private equity into acquisition currency. Using a fi
 
 <br>
 
-**After the Flood: Cheap Production, Costly Selection, and the Future of the Commons** with Nathan Seegert and Robert Wuebker
+**[After the Flood: Cheap Production, Costly Selection, and the Future of the Commons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7194358)** with [Nathan Seegert](https://www.nathanseegert.com/) and [Robert Wuebker](https://robwuebker.github.io/)
 
 Generative artificial intelligence dramatically lowers the cost of knowledge work. When cheaper production generates a flood of new work that human evaluators must manage, how do they decide what deserves attention? In open-source software, the answer is prior working relationships. Across 790,000 pull requests to 1,069 repositories, submissions more than triple with the advent of generative AI. Yet acceptance falls from 53% to 27% for first-time project contributors while remaining nearly unchanged for prior contributors. Aversion to disclosed AI use, our measures of code quality, and coder reputation do not account for the divergence. Acceptance is instead predicted by a prior tie between the contributor and the repository's lead maintainer, the person who merges the most pull requests.
 
