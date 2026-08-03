@@ -43,7 +43,27 @@ Do firm managers listen more to some shareholders than others? We show that dire
 
 **[Teams and the Homophily Trap: Evidence from Open Source Software](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5395207)** with Nathan Seegert, Robert Wuebker and Jeffrey Yang
 
+*R&R, Strategic Management Journal*
+
 We investigate team diversity and productivity in the setting of open source software. We find that team diversity is low relative to the contributor pool, with the most mass at the lowest level of diversity (monoculture). This pattern is explained by homophily, the preference to associate with similar people, which leads to teams becoming trapped in low-diversity equilibria. Our results are robust to instrumenting changes in team diversity using teams' exposure to country-level changes in Internet access. Teams that escape the "homophily trap" add more diversity and increase productivity relative to teams that do not.
+
+<br>
+
+**Index Fund Inertia and the Market for Corporate Control** with Maxime Couvert
+
+In corporate change-of-control bids, index funds are unlikely to tender their shares or resist (sue, vote no, or pressure the committee). We find this inertia cuts both ways: a one-standard-deviation increase in target passive ownership raises the completion of friendly tender offers, but lowers the completion of hostile ones. The effect concentrates where shareholder behavior matters most: in conflicted friendly deals. Acquirers respond ex ante: firms with high passive ownership receive more friendly offers, and those deals complete faster at slightly lower premiums. The rise of passive investing can explain a large fraction of the rise of friendly acquisitions.
+
+<br>
+
+**[Stock as Currency](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7050078)** with [Chris Mace](https://christophermace.github.io/)
+
+Going public turns illiquid private equity into acquisition currency. Using a filing-window industry-return instrument on 6,066 S-1 filers, we find IPO completion raises annual acquisition probability by 12 to 13 percentage points; nearly three-quarters of the induced deals are paid at least partly in stock. The new currency disproportionately buys private, direct-competitor firms. Acquisitions paid in stock underperform cash acquisitions by 21 to 28 percentage points over three to five years and delist 50% more often. Insiders sell into the most richly valued listings; institutions end up holding them. At the IPO, misvaluation acquires real consequences for firms and investors.
+
+<br>
+
+**After the Flood: Cheap Production, Costly Selection, and the Future of the Commons** with Nathan Seegert and Robert Wuebker
+
+Generative artificial intelligence dramatically lowers the cost of knowledge work. When cheaper production generates a flood of new work that human evaluators must manage, how do they decide what deserves attention? In open-source software, the answer is prior working relationships. Across 790,000 pull requests to 1,069 repositories, submissions more than triple with the advent of generative AI. Yet acceptance falls from 53% to 27% for first-time project contributors while remaining nearly unchanged for prior contributors. Aversion to disclosed AI use, our measures of code quality, and coder reputation do not account for the divergence. Acceptance is instead predicted by a prior tie between the contributor and the repository's lead maintainer, the person who merges the most pull requests.
 
 <br>
 
