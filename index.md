@@ -49,7 +49,7 @@ We investigate team diversity and productivity in the setting of open source sof
 
 <br>
 
-**Index Fund Inertia and the Market for Corporate Control** with Maxime Couvert
+**[Index Fund Inertia and the Market for Corporate Control](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7118880)** with [Maxime Couvert](https://www.maximecouvert.net/)
 
 In corporate change-of-control bids, index funds are unlikely to tender their shares or resist (sue, vote no, or pressure the committee). We find this inertia cuts both ways: a one-standard-deviation increase in target passive ownership raises the completion of friendly tender offers, but lowers the completion of hostile ones. The effect concentrates where shareholder behavior matters most: in conflicted friendly deals. Acquirers respond ex ante: firms with high passive ownership receive more friendly offers, and those deals complete faster at slightly lower premiums. The rise of passive investing can explain a large fraction of the rise of friendly acquisitions.
 
